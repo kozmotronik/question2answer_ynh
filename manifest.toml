@@ -90,6 +90,7 @@ ram.runtime = "70M"
         "php8.0-fpm",
         "php8.0-cli",
         "php8.0-mysql",
+        "php8.0-ldap",
     ]
 
     [resources.database]
